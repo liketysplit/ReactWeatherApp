@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.row-large {
+  width: 85vw;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+}
+
+.row-small {
+  width: 15vw;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+}
+
+.search-bar {
+  margin: 20px;
+}
+
+.search-bar input {
+  margin-right: 5px;
+}
+
+td,
+th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+td:first-of-type>div {
+  height: 200px;
+  width: 250px;
+}

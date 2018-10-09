@@ -1,0 +1,89 @@
+commit 6ea0832ee92ec2248cb7e551af78bf09895fb9c7
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 04:29:37 2018 -0400
+
+    Fix: Devtools Extension Added to package.json
+
+commit 1f000e7821129e26d61097c9b6a7f3e5db680636
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 04:13:15 2018 -0400
+
+    Code Cleanup: Removal of comments, old imports, and test code
+
+commit d256e7918e90c5958c007c7eb88226b9dabeee4e
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 04:10:19 2018 -0400
+
+    Fix: Crash when incorrect name is entered || Stack trace now produceds a 404 without crash
+
+commit 065bee5f25cbd90a44d2a96fe13a7760645e82cd
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 03:55:46 2018 -0400
+
+    5.1 Google Maps Integration
+
+commit eff6743aaad70f618508e4af8188b679b66c45c2
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 03:34:19 2018 -0400
+
+    4.3 Lodash | Units of measure added | CSS Markup
+
+commit 2c5fff75ff2975bbe661c45a50e51b49129b0b26
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 03:29:07 2018 -0400
+
+    4.2 Reusable Chart
+
+commit f53420de4c58bdccc3020877bbcf04aff97635be
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 03:11:56 2018 -0400
+
+    4.1 Added Sparklines for Temperature, Pressure, and Humidty
+
+commit 76f20fa5a7b26297f5440be8e903fb09a3c9f19b
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 02:47:10 2018 -0400
+
+    4.1 Added Weatherlist
+
+commit 1dc273ae2e771da819a1110b836b9d7c5c2896f5
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 02:31:35 2018 -0400
+
+    3.1 Redux Promises || Middleware fixes
+
+commit 9167f9dceebfed43fb9f38553fb65c6a225e2d6a
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 01:30:29 2018 -0400
+
+    4 Redux-Promise -- all you need to know about it
+
+commit 7bd60c68869fc93b125825055b02ac4088b31d12
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Thu Sep 27 01:22:38 2018 -0400
+
+    2.3 Ajax requests && Made several changes that fixed errors in a attempt to get data back
+
+commit b653457cd3ba60f0801c770a063e571c5c633044
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Wed Sep 26 23:14:16 2018 -0400
+
+    2.2 Install Middleware and Integrate it into our Redux data flow
+
+commit 001209664b1f3624d83bd551611bf602384d9939
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Tue Sep 25 11:18:56 2018 -0400
+
+    1.1 Form - binding context for the callback function
+
+commit bb05ab62365689501da1b7e466d55ad37bf57c37
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Tue Sep 25 10:29:27 2018 -0400
+
+    0 Setup Files and Structure
+
+commit c4c2c361c03e53cfbe12a787a5e2d353d5736757
+Author: liketysplit <rjboles2@gmail.com>
+Date:   Wed Sep 19 13:17:23 2018 -0400
+
+    Created New React App
