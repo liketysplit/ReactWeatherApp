@@ -2,7 +2,7 @@ import { SORT_WEATHER } from "../actions/index";
 
 const initialState = {
 	sort: "city",
-	order: "ascending"
+	order: "asc"
 };
 
 export default function(state = initialState, action) {
